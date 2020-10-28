@@ -1,0 +1,30 @@
+Conferencias vespertina 26 de Oct
+Java es el lenguaje de programación más pedido en el mundo laboral
+Cierto
+Falso <-----
+
+Es el lenguaje más rápido de compilar y ejecutar
+C++
+Ensamblador <---
+C#
+C
+
+Python y Scala son lenguajes de programación funcional 
+Cierto <------- 
+Falso
+
+Es la rama de computación que ayuda comúnmente en el área médica
+Sistemas Operativos
+Simulación
+Inteligencia artificial <-----
+Redes de computación
+
+El procesamiento de imagenes no es de ayuda para detectar cáncer de mama
+Cierto 
+Falso <------
+
+Son los principales objetivos de las TIC's
+Tener comunicación entre hardware y software
+Usa la programación ágil como metodología base
+Innovación y creatividad para comunicarse ó mejorar un proceso/necesidad <----
+Permitir el paso de redes neuronales entre dos servidores
